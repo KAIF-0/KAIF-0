@@ -6,9 +6,9 @@
 
 
 💡 I have my skills in:
--Language: c, Java script(Basics).
--Front-end: HTML, HTML5, CSS.
--Cloud: GIT/GITHUB.
+- Language: c, Java script(Basics).
+- Front-end: HTML, HTML5, CSS.
+- Cloud: GIT/GITHUB.
 
 
 💻 I'm excited about:
