@@ -7,7 +7,7 @@
 
 💡 I have my skills in:
 - Language: C, Java script(Basics).
-- Front-end: HTML, HTML5, CSS.
+- Front-end: HTML, HTML5, CSS, BOOTSTRAP(CSS Framework).
 - Cloud: GIT/GITHUB.
 
 
