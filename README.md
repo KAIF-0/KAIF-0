@@ -5,12 +5,6 @@
 👨‍💻 I love to code, create and innovate, very interested in open-source collaboration.
 
 
-💡 I have my skills in:
-- Language: C, Java script(Basics).
-- Front-end: HTML, HTML5, CSS, BOOTSTRAP(CSS Framework).
-- Cloud: GIT/GITHUB.
-
-
 💻 I'm excited about:
 - Learning and growing as a developer.
 - Web development and creating interactive user experiences.
