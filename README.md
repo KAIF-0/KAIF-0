@@ -1,6 +1,6 @@
 👋 Hey there! I'm KAIF KHAN, a fresh tech enthusiast diving into the world of coding and open source.
 
-🌐 Currently a First year student pursuing BTech in INFORMATION TECHNOLOGY at USICT, GGSIPU. 
+🌐 Currently a student pursuing BTech in INFORMATION TECHNOLOGY at USICT, GGSIPU. 
 
 👨‍💻 I love to code, create and innovate, very interested in open-source collaboration.
 
